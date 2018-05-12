@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38922'
     url: http://www.gutenberg.org/2009/agents/38922
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37571#Secret-History-of-the-Court-of-England-from-the-Accession-of-George-the-Third-to-the-Death-of_
 gutenberg_issued: '2011-09-30'
 gutenberg_type: Text
 identifiers:
