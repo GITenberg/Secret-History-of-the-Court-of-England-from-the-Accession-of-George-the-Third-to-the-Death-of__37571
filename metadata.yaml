@@ -1,0 +1,36 @@
+_repo: Secret-History-of-the-Court-of-England-from-the-Accession-of-George-the-Third-to-the-Death-of__37571
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hamilton, Anne, Lady
+    alias: Hamilton, Lady Anne
+    birthdate: 1766
+    deathdate: 1846
+    gutenberg_agent_id: '38922'
+    url: http://www.gutenberg.org/2009/agents/38922
+description: ''
+gutenberg_issued: '2011-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37571'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Caroline, Queen, consort of George IV, King of Great Britain, 1768-1821'
+- !lcsh 'George IV, King of Great Britain, 1762-1830 -- Relations with courts and
+  courtiers'
+- !lcsh 'Great Britain -- Court and courtiers -- History -- 19th century'
+- !lcsh 'Great Britain -- Court and courtiers -- History -- 18th century'
+- !lcsh 'Great Britain -- History -- 1714-1837'
+- !lcc 'DA'
+- !lcsh 'George III, King of Great Britain, 1738-1820 -- Relations with courts and
+  courtiers'
+title: "Secret History of the Court of England, from the Accession of George the Third\
+  \ to the Death of George the Fourth, Volume 2 (of 2)\r\nIncluding, Among Other Important\
+  \ Matters, Full Particulars of the Mysterious Death of the Princess Charlotte"
+url: http://www.gutenberg.org/ebooks/37571
